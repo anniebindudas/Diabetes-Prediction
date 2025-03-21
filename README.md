@@ -2,6 +2,10 @@
 
 This project involves building machine learning models to predict the likelihood of a person developing diabetes based on various health factors. The dataset contains various health metrics such as age, BMI, blood glucose levels, and smoking history, which are used to train and evaluate different classification models.
 
+Source of data: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
+![image](https://github.com/user-attachments/assets/df2ed157-ba3e-4337-9027-5acdfec81fcc)
+
+
 ### Techniques and Models Used:
 
 Data Preprocessing
