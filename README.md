@@ -18,6 +18,6 @@ Data Preprocessing:
  * Logistic Regression: Baseline binary classification
 
 ### Performance Metrics
-   Accuracy, Precision, Recall, and F1-score computed for all models
-   Confusion matrices generated
-   ROC curves plotted to compare model performance
+ * Accuracy, Precision, Recall, and F1-score computed for all models
+ * Confusion matrices generated
+ * ROC curves plotted to compare model performance
