@@ -4,7 +4,7 @@ This project involves building machine learning models to predict the likelihood
 
 ### Techniques and Models Used:
 
-Data Preprocessing:
+Data Preprocessing
 
  * Handled missing values by omitting rows with missing data.
  * Categorical variables were converted into factors for proper modeling.
