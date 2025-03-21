@@ -18,11 +18,12 @@ Four different machine learning models were trained to predict diabetes:
 ### Model Evaluation
 
 The models were evaluated based on the following metrics:
-* Accuracy: The proportion of correct predictions.
-* Precision: The proportion of true positives among all predicted positives.
-* Recall: The proportion of true positives among all actual positives.
-* F1 Score: The harmonic mean of precision and recall, providing a balanced metric.
+* Accuracy: The proportion of correct predictions
+* Precision: The proportion of true positives among all predicted positives
+* Recall: The proportion of true positives among all actual positives
+* F1 Score: The harmonic mean of precision and recall, providing a balanced metric
 
   ![image](https://github.com/user-attachments/assets/08a83c50-df1b-49ac-bea5-1b17983beebf)
 
   
+![image](https://github.com/user-attachments/assets/d2c035c8-311a-4317-9b0c-cc79f7189836)
