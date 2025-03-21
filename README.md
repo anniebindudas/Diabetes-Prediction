@@ -7,9 +7,7 @@ This project involves building machine learning models to predict the likelihood
 Data Preprocessing:
 
  * Handled missing values by omitting rows with missing data.
-
  * Categorical variables were converted into factors for proper modeling.
- 
  * Applied ROSE (Random Over-Sampling Examples) to address class imbalance in the dataset.
 
 ### Model Training & Evaluation
