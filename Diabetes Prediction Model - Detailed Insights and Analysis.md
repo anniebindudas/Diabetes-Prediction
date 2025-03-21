@@ -23,7 +23,4 @@ The models were evaluated based on the following metrics:
 * Recall: The proportion of true positives among all actual positives
 * F1 Score: The harmonic mean of precision and recall, providing a balanced metric
 
-  ![image](https://github.com/user-attachments/assets/08a83c50-df1b-49ac-bea5-1b17983beebf)
-
-  
-![image](https://github.com/user-attachments/assets/d2c035c8-311a-4317-9b0c-cc79f7189836)
+![image](https://github.com/user-attachments/assets/31fc1264-d536-43fc-94a2-7b138f7045d5)
