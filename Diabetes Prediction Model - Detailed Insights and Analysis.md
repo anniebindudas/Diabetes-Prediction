@@ -24,3 +24,14 @@ The models were evaluated based on the following metrics:
 * F1 Score: The harmonic mean of precision and recall, providing a balanced metric
 
 ![image](https://github.com/user-attachments/assets/31fc1264-d536-43fc-94a2-7b138f7045d5)
+
+Best Model: The Random Forest model achieved the highest accuracy (91.07%) and F1 Score (94.92%), indicating its strong performance for this classification task.
+
+### Key Insights:
+* The minority class (class 1) was significantly underrepresented with only 6,800 rows out of 100,000, so applying ROSE to balance the classes was crucial.
+* Random Forest emerged as the most effective model, with the best performance in terms of accuracy, precision, recall, and F1 score.
+* The LASSO regression model, while less accurate than Random Forest, demonstrated its ability to handle feature selection and performed reasonably well.
+
+### Conclusion 
+Healthcare providers can use predictive models like the ones built in this project to make more informed decisions. By analyzing health data such as blood glucose levels, BMI, and smoking history, healthcare professionals can identify individuals who may be at risk for diabetes before the onset of severe symptoms. By identifying individuals at risk for diabetes earlier, public health initiatives can be better targeted, improving outcomes for those affected by diabetes. 
+
