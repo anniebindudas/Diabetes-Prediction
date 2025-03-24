@@ -1,4 +1,4 @@
-# Detailed Insights and Analysis
+# **Detailed Insights and Analysis**
 
 ### Overview
 This project aims to predict the likelihood of a person developing diabetes based on several health-related factors. The dataset consists of health metrics, such as age, BMI (Body Mass Index), blood glucose levels, and smoking history, and is used to train and evaluate multiple machine learning models. Accurate diabetes prediction can help in early diagnosis and improve patient care.
@@ -15,7 +15,7 @@ Four different machine learning models were trained to predict diabetes:
 * K-Nearest Neighbors (KNN): A simple and interpretable classification algorithm based on the nearest neighbors.
 * Logistic Regression: A traditional binary classification model, providing a baseline for comparison with other models.
 
-#### Feature Importance (LASSO Regression)
+#### *Feature Importance (LASSO Regression)*
 
 To enhance model interpretability and identify the most relevant predictors of diabetes, I applied LASSO (Least Absolute Shrinkage and Selection Operator) regression. LASSO performs feature selection by shrinking less important coefficients toward zero, reducing complexity while maintaining predictive performance.
 
