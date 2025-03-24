@@ -18,9 +18,8 @@ Four different machine learning models were trained to predict diabetes:
 #### Feature Importance (LASSO Regression)
 
 To enhance model interpretability and identify the most relevant predictors of diabetes, I applied LASSO (Least Absolute Shrinkage and Selection Operator) regression. LASSO performs feature selection by shrinking less important coefficients toward zero, reducing complexity while maintaining predictive performance.
-<img src="https://github.com/user-attachments/assets/3e1b0636-319d-4ff4-bf35-b5bb1718cdb3" width="500"/>
 
-![image](https://github.com/user-attachments/assets/3e1b0636-319d-4ff4-bf35-b5bb1718cdb3)
+<img src="https://github.com/user-attachments/assets/3e1b0636-319d-4ff4-bf35-b5bb1718cdb3" width="500"/>
 
 The feature importance plot highlights the most influential variables in predicting diabetes:
 
