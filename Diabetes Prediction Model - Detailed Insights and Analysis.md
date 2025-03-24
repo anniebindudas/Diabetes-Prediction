@@ -37,7 +37,7 @@ The models were evaluated based on the following metrics:
 * Recall: The proportion of true positives among all actual positives
 * F1 Score: The harmonic mean of precision and recall, providing a balanced metric
 
-![image](https://github.com/user-attachments/assets/31fc1264-d536-43fc-94a2-7b138f7045d5)
+<img src="https://github.com/user-attachments/assets/31fc1264-d536-43fc-94a2-7b138f7045d5" width="500"/>
 
 Best Model: The Random Forest model achieved the highest accuracy (91.07%) and F1 Score (94.92%), indicating its strong performance for this classification task.
 
