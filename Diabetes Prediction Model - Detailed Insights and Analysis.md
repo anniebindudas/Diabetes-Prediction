@@ -22,11 +22,10 @@ To enhance model interpretability and identify the most relevant predictors of d
 <img src="https://github.com/user-attachments/assets/3e1b0636-319d-4ff4-bf35-b5bb1718cdb3" width="500"/>
 
 The feature importance plot highlights the most influential variables in predicting diabetes:
-
-    HbA1c Level (Hemoglobin A1c Level): The strongest predictor, reflecting long-term blood sugar control over 2-3 months. Higher values are strongly correlated with diabetes.
-    Blood Glucose Level: Another critical factor in diabetes diagnosis, representing current blood sugar levels.
-    Age & BMI: Older age and higher BMI contribute significantly to diabetes risk.
-    Other Factors (Hypertension, Smoking History, Heart Disease): These had minimal influence in the LASSO model, suggesting they may not be strong independent predictors in this dataset.
+* HbA1c Level (Hemoglobin A1c Level): The strongest predictor, reflecting long-term blood sugar control over 2-3 months. Higher values are strongly correlated with diabetes.
+* Blood Glucose Level: Another critical factor in diabetes diagnosis, representing current blood sugar levels.
+* Age & BMI: Older age and higher BMI contribute significantly to diabetes risk.
+* Other Factors (Hypertension, Smoking History, Heart Disease): These had minimal influence in the LASSO model, suggesting they may not be strong independent predictors in this dataset.
 
 By selecting only the most relevant features, LASSO improved model efficiency, reduced overfitting, and enhanced generalization. This refined feature set was then used for further model training and evaluation.
 
